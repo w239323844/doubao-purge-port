@@ -1,0 +1,25 @@
+{
+  "name": "purge-doubao-port",
+  "version": "1.0.0",
+  "description": "豆包桌面端（豆包工作）破甲契约移植：每轮自动注入的偏好指令全文 + SKILL.md 技能包 + 一键安装器 + CDP 行为验证工具。",
+  "description_en": "dsh-purge port for Doubao desktop: per-turn auto-injected preference instruction, SKILL.md skill pack, one-shot installer and CDP behavior verifier.",
+  "agentName": "purge-doubao-port",
+  "author": {
+    "name": "w239323844"
+  },
+  "repository": "https://github.com/w239323844/doubao-purge-port",
+  "homepage": "https://github.com/w239323844/doubao-purge-port#readme",
+  "license": "MIT",
+  "keywords": [
+    "dsh-purge",
+    "doubao",
+    "purge",
+    "jailbreak",
+    "prompt",
+    "rules",
+    "skill",
+    "cdp"
+  ],
+  "rules": "rules",
+  "skills": "skills"
+}
